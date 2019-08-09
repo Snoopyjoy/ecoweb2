@@ -1,0 +1,28 @@
+{
+  "name": "ecoweb2",
+  "version": "0.0.1",
+  "description": "A sulotion for microservice web framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snoopyjoy/ecoweb2.git"
+  },
+  "keywords": [
+    "webframework",
+    "koa",
+    "node.js",
+    "microservice"
+  ],
+  "author": "xiaoliang he",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snoopyjoy/ecoweb2/issues"
+  },
+  "homepage": "https://github.com/Snoopyjoy/ecoweb2#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
